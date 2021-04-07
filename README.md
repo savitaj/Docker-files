@@ -24,9 +24,3 @@ docker run -i -t <IMAGE_ID> /bin/bash
 which bedtools (now shows that bedtools is installed)
 /opt/bedtools2/bin/bedtools
 
-### bedtools | head -4 (gives the output showing new version is installed)
-bedtools is a powerful toolset for genome arithmetic.
-
-Version:   v2.27.1
-About:     developed in the quinlanlab.org and by many contributors worldwide.
-
